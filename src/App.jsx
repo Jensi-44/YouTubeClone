@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Navbar from './component/Navbar/Navbar'
 import { Route, Routes } from 'react-router-dom'
 import Home from './pages/home/home'
-import Video from './pages/video/video'
+import Video from './pages/video/Video'
 
 
 
