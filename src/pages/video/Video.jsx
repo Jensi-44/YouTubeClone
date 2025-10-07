@@ -4,7 +4,7 @@ import Recommended from '../../component/Recommended/Recommended'
 
 const Video = () => {
   return (
-    <div className="bg-white flex justify-center bg-gray-100 py-6 min-h-screen">
+    <div className="flex flex-col lg:flex-row gap-6 px-4 md:px-8 py-6 bg-white-50 min-h-screen" >
         <PlayVideo/>
         <Recommended/>
     </div>
